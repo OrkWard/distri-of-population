@@ -1,0 +1,11 @@
+- [A Study on the Spatical and temporal distribution of population in Yunnan Province Based on BigDate](./A_Study_on_the_Spatial_and_Temporal_Distribution_of_Population_in_Yunnan_Province_Based_on_BigDate.pdf)
+  - 中文：基于大数据，云南省，人口的时空分布(2020)
+  - 摘要：四五六次人口普查，使用 ArcGIS 和地统计方法
+- [High Resolution Population Distribution Maps for Southeast Asia in 2010 and 2015](./High_Resolution_Population_Distribution_Maps_for_Southeast_Asia_in_2010_and_2015.pdf)
+  - 中文：2010、2015 年东南亚地区的高精度人口分布(2013)
+  - 摘要：~100 米地理分辨率人口数据集，为每个国家提供。借助了从 Landset 中获取的居住地、土地覆盖和其他设施的辅助数据。并和其他两个全球数据集的结果进行了对比
+- [Landscan A Global Population Database For Estimating Populations At Risk](./Landscan_A_Global_Population_Database_For_Estimating_Populations_At_Risk.pdf)
+  - 中文：LandScan，一个全球人口数据库，用于估计处于风险的人口数量（1998）
+- [WorldPop, open data for spatial demography](./WorldPop_Open_Data_For_Spatial_Demography.pdf)
+  - 中文：WorldPop，用于地统计的开放数据集（2017）
+  - 摘要：
