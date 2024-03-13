@@ -1,8 +1,10 @@
 import pandas as pd
 import numpy as np
+from config import DATA_DIR
+from os import path
 import math
 
-diabetes = pd.read_csv('../data/diabetes.csv')
+diabetes = pd.read_csv(path.join(DATA_DIR, 'PlayTennis.csv'))
 
 def calculate_entropy(data: pd.DataFrame, target_column: str):
   total_rows = len(data)
