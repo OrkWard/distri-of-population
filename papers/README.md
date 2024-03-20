@@ -1,3 +1,4 @@
+## 论文
 1. [A Study on the Spatical and temporal distribution of population in Yunnan Province Based on BigDate](./A_Study_on_the_Spatial_and_Temporal_Distribution_of_Population_in_Yunnan_Province_Based_on_BigDate.pdf)
   - 中文：基于大数据，云南省，人口的时空分布(2020)
   - 摘要：四五六次人口普查，使用 ArcGIS 和地统计方法
@@ -16,3 +17,7 @@
   - 评：WorldPop 项目主要使用的方法（随机森林），需要看看
 6. [High-resolution gridded population datasets for Latin America and the Caribbean using official statistics](./High-resolution_gridded_population_datasets_for_Latin_America_and_the_Caribbean_using_official_statistics.pdf)
   - 中文：拉丁美洲和加勒比的高分辨率人口分布，使用官方数据
+
+
+## 文摘
+ - 影响人口分布的因素可以被分为两个类型: 连续变量和不连续变量. 连续变量包括: 地形; 坡度; 气候; 夜间光照密度等等. 不连续变量包括: 土地利用方式; 是否存在住宅和城市地区; 道路; 水体; 径流; 自然保护区等等.
