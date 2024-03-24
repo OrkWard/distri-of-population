@@ -18,6 +18,14 @@
 6. [High-resolution gridded population datasets for Latin America and the Caribbean using official statistics](./High-resolution_gridded_population_datasets_for_Latin_America_and_the_Caribbean_using_official_statistics.pdf)
   - 中文：拉丁美洲和加勒比的高分辨率人口分布，使用官方统计数据(2023)
   - 评: 使用了非常多的辅助数据, 随后使用随机森林进行建模. 研究仅对比了建筑面积, 建筑高度, 建筑体积几个因素对准确度的影响, 得出的结论是基于建筑分布的预测能有效提高人口分布的预测准确度.
+7. popRF: Random Forest-informed Disaggregative Population Modelling and Mapping(./popRF_random_forest_informed_disaggregative_population_modelling_and_mapping.pdf)
+  - 中文: popRF: 基于随机森林启发的人口反聚合及映射(2021)
+  - 评: [6] 中随机森林算法的具体使用方式, 需要看看
+8. Spatiotemporal Patterns of Population in mainland China 1990 to 2010(./Spatiotemporal_patterns_of_population_in_mainland_China_1990_to_2010.pdf)
+  - 中文: 中国大陆 1990-2010 的人口时空分布模式(2015)
+9. The spatial allocation of population: a review of large-scale gridded population data products and their fitness for use(./The_spatial_allocation_of_population_a_review_of_large_scale_gridded_population_data_products_and_their_fitness_for_use.pdf)
+  - 评: [6] 中对最终结果有效性验证的方式, 需要看看
+
 
 
 ## 文摘
