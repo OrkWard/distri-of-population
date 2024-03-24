@@ -16,7 +16,8 @@
 5. [Disaggregating Census Data for Population Mapping Using Random Forests with Remotely-Sensed and Ancillary Data](./Disaggregating_Census_Data_for_Population_Mapping_Using_Random_Forests_with_Remotely-Sensed_and_Ancillary_Data.pdf)
   - 评：WorldPop 项目主要使用的方法（随机森林），需要看看
 6. [High-resolution gridded population datasets for Latin America and the Caribbean using official statistics](./High-resolution_gridded_population_datasets_for_Latin_America_and_the_Caribbean_using_official_statistics.pdf)
-  - 中文：拉丁美洲和加勒比的高分辨率人口分布，使用官方数据
+  - 中文：拉丁美洲和加勒比的高分辨率人口分布，使用官方统计数据(2023)
+  - 评: 使用了非常多的辅助数据, 随后使用随机森林进行建模. 研究仅对比了建筑面积, 建筑高度, 建筑体积几个因素对准确度的影响, 得出的结论是基于建筑分布的预测能有效提高人口分布的预测准确度.
 
 
 ## 文摘
