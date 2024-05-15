@@ -5,7 +5,6 @@ import rasterio
 
 country = "chn"
 
-
 def pop(pop, cov: str, mastergrid: str, watermask: str, output_dir: str, log=True):
     covariates_output = Path(output_dir) / 'covariates'
     covariates_output.mkdir(parents=True, exist_ok=True)
